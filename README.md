@@ -10,12 +10,12 @@ development.
 **Docker**: creating scalable, isolated environments   
 **Cloud**: obtaining AWS Certified Cloud Practitioner badge
 
-### 🌐 My view on software?
+### 💻 My view on software?
 
 **Holistic Approach to Software Development**: Aiming to excel in backend while gaining proficiency in frontend and
 DevOps, for a well-rounded expertise.
 
-### 🎯 My Goal?
+### 🎯 My goal?
 
 **To Provide as Much Value as Possible for YOU**: Aspiring to become a complementary problem solver, not merely a
 coder.
