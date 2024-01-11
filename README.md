@@ -20,6 +20,8 @@ DevOps, for a well-rounded expertise.
 **To Provide as Much Value as Possible for YOU**: Aspiring to become a complementary problem solver, not merely a
 coder.
 
+### [Recent microservice project](https://github.com/kanakx/ems-eureka-spring)
+
 #### Languages
 
 <p style="text-align: left;">
