@@ -17,7 +17,7 @@ DevOps, for a well-rounded expertise.
 
 ### 🎯 My Goal?
 
-**To Provide as Much Value as Possible for YOU**: Aspiring to become a complementary software engineer, not merely a
+**To Provide as Much Value as Possible for YOU**: Aspiring to become a complementary problem solver, not merely a
 coder.
 
 #### Languages
