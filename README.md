@@ -78,6 +78,10 @@ coder.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 
+<a href="https://www.liquibase.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg" alt="liquibase" width="40" height="40"/> 
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -88,6 +92,10 @@ coder.
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+<a href="https://swagger.io" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" alt="swagger" width="40" height="40"/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
