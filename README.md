@@ -1,6 +1,6 @@
 ### 💬 Who Am I?
 
-**3rd Year Computer Science Student at PJAIT Warsaw** with first commercial experiences with SCRUM and RESTful API
+**3rd Year Computer Science Student at PJAIT Warsaw** with first commercial experiences with SCRUM and RESTful APIs
 development.
 
 ### 🔍 What I've been up to recently?
