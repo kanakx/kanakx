@@ -6,9 +6,9 @@ development.
 ### 🔍 What I've been up to recently?
 
 **Microservices**: fostering modularity, reusability and scalability  
-**React**: building on my Java background to develop frontend acumen  
 **Docker**: creating scalable, isolated environments   
-**Cloud**: obtaining AWS Certified Cloud Practitioner badge
+**Cloud**: obtaining AWS Certified Cloud Practitioner badge  
+**React**: expanding horizons by stepping out of the backend development  
 
 ### 💻 My view on software?
 
