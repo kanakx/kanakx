@@ -1,7 +1,7 @@
 ### 💬 Who Am I?
 
 **3rd Year Computer Science Student at PJAIT Warsaw** with first commercial experiences with SCRUM and RESTful APIs
-development.
+development. Eager to learn DevOps in practice. 
 
 ### 🔍 What I've been up to recently?
 
@@ -17,7 +17,7 @@ DevOps, for a well-rounded expertise.
 
 ### 🎯 My goal?
 
-**To Provide as Much Value as Possible for YOU**: Aspiring to become a complementary problem solver, not merely a
+**To Provide as Much Value as Possible**: Aspiring to become a complementary problem solver, not merely a
 coder.
 
 #### Languages
@@ -58,10 +58,6 @@ coder.
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-
 </p>
 
 #### Tools
@@ -74,14 +70,6 @@ coder.
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-
-<a href="https://www.liquibase.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.liquibase.com/wp-content/uploads/2020/05/Liquibase_logo_vertical_RGB.svg" alt="liquibase" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
