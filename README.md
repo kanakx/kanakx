@@ -1,4 +1,4 @@
-### Third-year Computer Science student at PJAIT Warsaw
+### Third-year Computer Science Student at PJAIT Warsaw
 
 with hands-on experience with SCRUM methodologies and RESTful API development. 
 
