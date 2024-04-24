@@ -87,7 +87,3 @@ I adopt a holistic approach to software development, striving for excellence in 
 </a>
 
 </p>
-
-### 📫 Reach me at:
-
-**kacperkanak@icloud.com**
