@@ -12,7 +12,7 @@ with hands-on experience with SCRUM methodologies and RESTful API development.
 
 I adopt a holistic approach to software development, striving for excellence in backend technologies while actively developing my frontend and DevOps skills to achieve comprehensive expertise.  
 
-** I aim to deliver substantial value in every project I engage with. **
+**I aim to deliver substantial value in every project I engage with.**
 
 #### Languages
 
