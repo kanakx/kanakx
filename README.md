@@ -1,24 +1,18 @@
-### 💬 Who Am I?
+### Third-year Computer Science student at PJAIT Warsaw
 
-**3rd Year Computer Science Student at PJAIT Warsaw** with first commercial experiences with SCRUM and RESTful APIs
-development. Eager to learn DevOps in practice. 
+with hands-on experience with SCRUM methodologies and RESTful API development. 
 
-### 🔍 What I've been up to recently?
+### Recent Activities
 
-**Microservices**: fostering modularity, reusability and scalability  
-**Docker**: creating scalable, isolated environments   
-**Cloud**: obtaining AWS Certified Cloud Practitioner badge  
-**React**: expanding horizons by stepping out of the backend development  
+- **Microservices:** Enhancing modularity, reusability, and scalability.
+- **Docker:** Developing scalable and isolated environments.
+- **Cloud Computing:** Recently certified as an AWS Certified Cloud Practitioner.
 
-### 💻 My view on software?
+### Perspective on Software Engineering
 
-**Holistic Approach to Software Development**: Aiming to excel in backend while gaining proficiency in frontend and
-DevOps, for a well-rounded expertise.
+I adopt a holistic approach to software development, striving for excellence in backend technologies while actively developing my frontend and DevOps skills to achieve comprehensive expertise.  
 
-### 🎯 My goal?
-
-**To Provide as Much Value as Possible**: Aspiring to become a complementary problem solver, not merely a
-coder.
+** I aim to deliver substantial value in every project I engage with. **
 
 #### Languages
 
