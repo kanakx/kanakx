@@ -42,6 +42,10 @@ I adopt a holistic approach to software development, striving for excellence in 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
+<a href="https://www.ibm.com/docs/en/db2/11.5?topic=fundamentals-sql" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sqldb" width="40" height="40"/> 
+</a>
+
 </p>
 
 #### Frameworks
@@ -58,16 +62,8 @@ I adopt a holistic approach to software development, striving for excellence in 
 
 <p style="text-align: left;">
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -78,8 +74,16 @@ I adopt a holistic approach to software development, striving for excellence in 
     <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" alt="swagger" width="40" height="40"/> 
 </a>
 
+<a href="https://www.openapis.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" alt="swagger" width="40" height="40"/> 
+</a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
