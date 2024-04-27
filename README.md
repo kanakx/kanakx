@@ -13,7 +13,7 @@ with hands-on experience with SCRUM methodologies and RESTful API development.
 I specialize in backend development, currently expanding my expertise into DevOps.  
 Additionally, I possess fundamental skills in SPA frontend development. 
 
-**I aim to deliver substantial value in every project I engage with.**
+**I aim to deliver palpable value in every project I engage with.**
 
 #### Programming Languages
 
