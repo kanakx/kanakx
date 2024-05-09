@@ -1,19 +1,18 @@
 ### Third-year Computer Science Student at PJAIT Warsaw
 
-with hands-on experience with SCRUM methodologies and RESTful API development. 
+with first, hands-on experience with SCRUM and RESTful APIs.  
+
+I specialize in backend development using Spring Boot and I'm currently expanding my expertise into DevOps.  
+Additionally, I possess fundamental skills in SPA frontend development.  
+
+**I aim to deliver palpable value in every project I engage with.**
 
 ### Recent Activities
 
-- **Microservices:** Enhancing modularity, reusability, and scalability.
-- **Docker:** Developing scalable and isolated environments.
-- **Cloud Computing:** Recently certified as an AWS Certified Cloud Practitioner.
-
-### Perspective on Software Engineering
-
-I specialize in backend development, currently expanding my expertise into DevOps.  
-Additionally, I possess fundamental skills in SPA frontend development. 
-
-**I aim to deliver palpable value in every project I engage with.**
+- **Microservices:** Building simple, yet highly modular Spring Boot project revolving around data analysis. 
+- **Interacting with Operating Systems:** Using Python and Bash to automate real-world tasks like extracting and processing logs. 
+- **Docker:** Learning about configuring isolated environments for testing and deployment purposes. 
+- **Cloud Computing:** Certified as an AWS Certified Cloud Practitioner. 
 
 #### Programming Languages
 
