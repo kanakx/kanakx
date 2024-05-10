@@ -9,10 +9,15 @@ Additionally, I possess fundamental skills in SPA frontend development.
 
 ### Recent Activities
 
-- **Microservices:** Building simple, yet highly modular Spring Boot project revolving around data analysis. 
-- **Interacting with Operating Systems:** Using Python and Bash to automate real-world tasks like extracting and processing logs. 
-- **Docker:** Learning about configuring isolated environments for testing and deployment purposes. 
-- **Cloud Computing:** Certified as an AWS Certified Cloud Practitioner. 
+- **Microservices** - Building simple, yet highly modular Spring Boot project revolving around data analysis
+- **Interacting with Operating Systems** - Using Python and Bash to automate real-world tasks like extracting and processing logs
+- **Docker** - Learning about configuring isolated environments for testing and deployment purposes
+- **Cloud Computing** - Certified as an AWS Certified Cloud Practitioner
+
+### Recent Personal Projects
+
+- **[Event Management System](https://github.com/kanakx/ems-api-microservices.git)** - Simple microservice architecture encompassing three services orchestrated via API Gateway
+- **[Markov Chains Model](https://github.com/kanakx/markov-chains-model.git)** - Simple predictive machine learning model designed to forecast an opponent's moves and evolve a counter-strategy in a classic RPS game scenario
 
 #### Programming Languages
 
