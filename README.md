@@ -3,7 +3,7 @@
 with first, hands-on experience with SCRUM and RESTful APIs.  
 
 I specialize in backend development using Spring Boot and I'm currently expanding my expertise into DevOps.  
-Additionally, I possess fundamental skills in SPA frontend development.  
+
 
 **I aim to deliver palpable value in every project I engage with.**
 
@@ -16,8 +16,9 @@ Additionally, I possess fundamental skills in SPA frontend development.
 
 ### Recent Personal Projects
 
-- **[Event Management System](https://github.com/kanakx/ems-api-microservices.git)** - Simple microservice architecture encompassing three services orchestrated via API Gateway
-- **[Markov Chains Model](https://github.com/kanakx/markov-chains-model.git)** - Simple predictive machine learning model designed to forecast an opponent's moves and evolve a counter-strategy in a classic RPS game scenario
+- **[Event Management System](https://github.com/kanakx/ems-api-microservices.git)** - A microservice architecture encompassing three services orchestrated via API Gateway
+- **[Markov Chains Model](https://github.com/kanakx/markov-chains-model.git)** - A predictive machine learning model designed to forecast an opponent's moves and evolve a counter-strategy
+- **[Log Extraction and Analysis](https://github.com/kanakx/log-analysis-lab.git)** - A lab encompassing DevOps-ish tasks like extracting information from logs using Python
 
 #### Programming Languages
 
@@ -31,32 +32,6 @@ Additionally, I possess fundamental skills in SPA frontend development.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-
-</p>
-
-#### Markup and Query Languages
-
-<p style="text-align: left;">
-
-<a href="https://www.ibm.com/docs/en/db2/11.5?topic=fundamentals-sql" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sqldb" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
 </p>
 
 #### Frameworks
@@ -67,18 +42,14 @@ Additionally, I possess fundamental skills in SPA frontend development.
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 
-<a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="spring" width="40" height="40"/>
-</a>
-
 </p>
 
 #### Tools
 
 <p style="text-align: left;">
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<a href="https://www.ibm.com/docs/en/db2/11.5?topic=fundamentals-sql" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sqldb" width="40" height="40"/> 
 </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
