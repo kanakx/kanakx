@@ -34,19 +34,13 @@ I specialize in backend development using Spring Boot and I'm currently expandin
 
 </p>
 
-#### Frameworks
+#### Tools
 
 <p style="text-align: left;">
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
-
-</p>
-
-#### Tools
-
-<p style="text-align: left;">
 
 <a href="https://www.ibm.com/docs/en/db2/11.5?topic=fundamentals-sql" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sqldb" width="40" height="40"/> 
